@@ -241,7 +241,7 @@ if is_ethereum:
   if ver == True:
       print bcolors.OKGREEN + "Verified:\t\t%s" % ver,bcolors.ENDC
   else:
-      print bcolors.FAIL + "!!!!!! FAILURE! DO NOT USE THIS ETHEREUM ADDRESS, YOU WILL NOT BE ABLE TO ACCESS YOUR BTC! !!!!!!",bcolors.ENDC
+      print bcolors.FAIL + "!!!!!! FAILURE! DO NOT USE THIS ETHEREUM ADDRESS, YOU WILL NOT BE ABLE TO ACCESS YOUR ETH! !!!!!!",bcolors.ENDC
       sys.exit(1)
 
 
