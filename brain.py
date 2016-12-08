@@ -221,7 +221,7 @@ if is_bitcoin:
       sys.exit(1)
 
   print bcolors.BOLD + "\nTo verify using",btc_name.upper(),"core (you really wanna do this):",bcolors.ENDC
-  print "`",btc_name.lower(),"-cli verifymessage %s \"%s\" \"%s\"`" % (address, signature.decode('ascii'), message)
+  print "`" + btc_name.lower() + "-cli verifymessage %s \"%s\" \"%s\"`" % (address, signature.decode('ascii'), message)
 
 
 if is_ethereum:
