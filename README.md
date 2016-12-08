@@ -5,7 +5,7 @@
 ## Disclaimer
 
 Please note that this script should be viewed as EXPERIMENTAL.
-Your wallet or bitcoins may be lost, deleted, or corrupted due to bugs or glitches. Please take caution.
+Your wallet, bitcoins or ETH may be lost, deleted, or corrupted due to bugs or glitches. Please take caution.
 
 ## What is it?
 
